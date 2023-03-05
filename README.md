@@ -16,7 +16,7 @@ This repository contains links and passwords for various competitive programming
 |[UIU Team Contest 2](https://vjudge.net/contest/537193)| N/A |
 |[UIU Team Contest 3](https://vjudge.net/contest/538865)| N/A |
 |[UIU Long: Recursion and Backtracking (Easy)](https://vjudge.net/contest/539470)| N/A |
-|[https://vjudge.net/contest/541367](https://vjudge.net/contest/541367)| N/A |
+|[UIU Long: Backtracking for rookies](https://vjudge.net/contest/541367)| N/A |
 |[UIU Long: Variant problems [Trie, Meet-in-the-middle, Combinatorics]](https://vjudge.net/contest/541699)| N/A |
 |[UIU Long: Matrix Chain Multiplication](https://vjudge.net/contest/543567)| N/A |
 |[UIU Long: Square Root Decomposition](https://vjudge.net/contest/544623)| N/A |
