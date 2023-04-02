@@ -20,4 +20,14 @@ This repository contains links and passwords for various competitive programming
 |[UIU Long: Variant problems [Trie, Meet-in-the-middle, Combinatorics]](https://vjudge.net/contest/541699)| N/A |
 |[UIU Long: Matrix Chain Multiplication](https://vjudge.net/contest/543567)| N/A |
 |[UIU Long: Square Root Decomposition](https://vjudge.net/contest/544623)| N/A |
+|[UIU Weekly Individual 2](https://vjudge.net/contest/536221)| N/A |
+|[UIU Team Formation Contest](https://vjudge.net/contest/539495)| N/A |
+|[UIU Team Formation Contest](https://vjudge.net/contest/539554)| N/A |
+|[UIU Team Formation Contest](https://vjudge.net/contest/539555)| N/A |
+|[Warm-up Programming contest- UIU](https://vjudge.net/contest/539868)| N/A |
+|[UIU Weekly Individual 3 [Unofficial]](https://vjudge.net/contest/543519)| N/A |
+|[UIU Speed Run 1](https://vjudge.net/contest/549533)| N/A |
+|[UIU Speed Run 1 [Cloned]](https://vjudge.net/contest/549630)| N/A |
+|[UIU WAR OF CODERS PROGRAMMING CONTEST ROUND- 2](https://vjudge.net/contest/549761)| wuiu1 |
+|[UIU Long: Magic](https://vjudge.net/contest/551004)| N/A |
 ---
