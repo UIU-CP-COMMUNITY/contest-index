@@ -30,4 +30,5 @@ This repository contains links and passwords for various competitive programming
 |[UIU Speed Run 1 [Cloned]](https://vjudge.net/contest/549630)| N/A |
 |[UIU WAR OF CODERS PROGRAMMING CONTEST ROUND- 2](https://vjudge.net/contest/549761)| wuiu1 |
 |[UIU Long: Magic](https://vjudge.net/contest/551004)| N/A |
+|[UIU Long: Modular Arithmetic (Beginner)](https://vjudge.net/contest/553988)| N/A |
 ---
