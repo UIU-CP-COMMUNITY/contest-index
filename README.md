@@ -30,5 +30,14 @@ This repository contains links and passwords for various competitive programming
 |[UIU Speed Run 1 [Cloned]](https://vjudge.net/contest/549630)| N/A |
 |[UIU WAR OF CODERS PROGRAMMING CONTEST ROUND- 2](https://vjudge.net/contest/549761)| wuiu1 |
 |[UIU Long: Magic](https://vjudge.net/contest/551004)| N/A |
+|[UIU War of coders Season-2 Round 2](https://vjudge.net/contest/553287)| youknowwhoknow |
+|[UIU Team Contest 6](https://vjudge.net/contest/539645)| N/A |
+|[UIU Team Contest 11](https://vjudge.net/contest/543521)| N/A |
+|[UIU Beginner CP (Prefix Sum, Binary Search, Recursion)](https://vjudge.net/contest/544590)| N/A |
+|[UIU Practice Problem 1](https://vjudge.net/contest/546668)| UIUCP |
+|[UIU LONG PRACTICE CONTEST ROUND-1](https://vjudge.net/contest/551324)| PRACTISE-CONTEST-ROUND-1 |
+|[UIU Long Contest Round - 1](https://vjudge.net/contest/553073)| BlackPanther |
+|[UIU Long Contest #3 (Dynamic Programming)](https://vjudge.net/contest/561667)| N/A |
 |[UIU Long: Modular Arithmetic (Beginner)](https://vjudge.net/contest/553988)| N/A |
+|[UIU Weekly Individual](https://vjudge.net/contest/561667)| make-it-work |
 ---
