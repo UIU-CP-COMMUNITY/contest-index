@@ -40,4 +40,5 @@ This repository contains links and passwords for various competitive programming
 |[UIU Long Contest #3 (Dynamic Programming)](https://vjudge.net/contest/561667)| N/A |
 |[UIU Long: Modular Arithmetic (Beginner)](https://vjudge.net/contest/553988)| N/A |
 |[UIU Weekly Individual](https://vjudge.net/contest/561667)| make-it-work |
+|[UIU Long: Dynamic Programming (Easy)](https://vjudge.net/contest/564816)| N/A |
 ---
