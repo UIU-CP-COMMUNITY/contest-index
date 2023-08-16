@@ -42,4 +42,6 @@ This repository contains links and passwords for various competitive programming
 |[UIU Weekly Individual](https://vjudge.net/contest/561667)| make-it-work |
 |[UIU Long: Dynamic Programming (Easy)](https://vjudge.net/contest/564816)| N/A |
 |[UIU Long: SOS DP](https://vjudge.net/contest/567451)| N/A |
+|[UIU CodeBooster Round - 1](https://codeforces.com/gym/454630)| N/A |
+|[UIU CodeBooster Round - 2](https://codeforces.com/gym/464282)| N/A |
 ---
