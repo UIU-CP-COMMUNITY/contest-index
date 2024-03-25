@@ -44,4 +44,6 @@ This repository contains links and passwords for various competitive programming
 |[UIU Long: SOS DP](https://vjudge.net/contest/567451)| N/A |
 |[UIU CodeBooster Round - 1](https://codeforces.com/gym/454630)| N/A |
 |[UIU CodeBooster Round - 2](https://codeforces.com/gym/464282)| N/A |
+|[UIU CodeBooster Round - 2](https://codeforces.com/gym/464282)| N/A |
+|[UIU Long: Recursion](https://vjudge.net/contest/616828) | N/A |
 ---
